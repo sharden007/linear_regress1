@@ -1,3 +1,6 @@
+Linear Regression provides actionable insights into spending patterns.
+
+Orig steps
 Convert the csv data file to json using  Prep_data python files.
 Take a small sample of the data then:
 👉 Prompt 1
@@ -10,6 +13,8 @@ Please provide the solutuon as an HTML downloadable file
 
 👉 Prompt 3 (if needed)
 From the dashboard you created, change the style to glass morphism. Then, adjust the padding width of the charts to 40%, and change the background colour to icy blue. Can you also provide this as a downloadable HTML file?
+
+
 
 requires numpy==1.26.4
 
